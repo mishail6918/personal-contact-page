@@ -1,3 +1,5 @@
+Веб-приложение, где пользователь может заполнить данные о себе и своих детях с сохранением в store.
+- Vue.js, Vue Router, Vuex, SCSS
 # vue-personal-form
 
 ## Project setup
